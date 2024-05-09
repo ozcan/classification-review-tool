@@ -1,4 +1,3 @@
-@ -1 +1,46 @@
 # Image Classification Review Tool
 
 ![Screenshot](example/example.jpg)
