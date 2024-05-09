@@ -1,0 +1,1066 @@
+{
+  "images/12_Happy.jpg": [
+    { "label": "happy", "score": 0.9760520458221436 },
+    { "label": "surprise", "score": 0.007539073470979929 },
+    { "label": "neutral", "score": 0.00606749951839447 },
+    { "label": "sad", "score": 0.003563844133168459 },
+    { "label": "fear", "score": 0.002640938386321068 }
+  ],
+  "images/10_Contempt.jpg": [
+    { "label": "happy", "score": 0.8121405839920044 },
+    { "label": "surprise", "score": 0.057953134179115295 },
+    { "label": "neutral", "score": 0.046099040657281876 },
+    { "label": "fear", "score": 0.031888220459222794 },
+    { "label": "angry", "score": 0.02385363169014454 }
+  ],
+  "images/7_Contempt.jpg": [
+    { "label": "neutral", "score": 0.5772872567176819 },
+    { "label": "sad", "score": 0.15538290143013 },
+    { "label": "happy", "score": 0.10588172823190689 },
+    { "label": "angry", "score": 0.06725472211837769 },
+    { "label": "fear", "score": 0.05256501957774162 }
+  ],
+  "images/8_Sad.jpg": [
+    { "label": "neutral", "score": 0.4900636672973633 },
+    { "label": "sad", "score": 0.29924672842025757 },
+    { "label": "angry", "score": 0.07454700022935867 },
+    { "label": "happy", "score": 0.06065995618700981 },
+    { "label": "fear", "score": 0.05496874079108238 }
+  ],
+  "images/6_Happy.jpg": [
+    { "label": "happy", "score": 0.9752296805381775 },
+    { "label": "surprise", "score": 0.010165747255086899 },
+    { "label": "neutral", "score": 0.0054197534918785095 },
+    { "label": "fear", "score": 0.0026527168229222298 },
+    { "label": "disgust", "score": 0.002395404502749443 }
+  ],
+  "images/2_Happy.jpg": [
+    { "label": "happy", "score": 0.7953323125839233 },
+    { "label": "sad", "score": 0.09693553298711777 },
+    { "label": "neutral", "score": 0.07635010778903961 },
+    { "label": "angry", "score": 0.014739098958671093 },
+    { "label": "fear", "score": 0.0070406850427389145 }
+  ],
+  "images/1_Sad.jpg": [
+    { "label": "sad", "score": 0.6113526225090027 },
+    { "label": "neutral", "score": 0.19912037253379822 },
+    { "label": "fear", "score": 0.07793804258108139 },
+    { "label": "happy", "score": 0.05130273848772049 },
+    { "label": "angry", "score": 0.037394892424345016 }
+  ],
+  "images/3_Sad.jpg": [
+    { "label": "neutral", "score": 0.6986737251281738 },
+    { "label": "sad", "score": 0.08790837228298187 },
+    { "label": "happy", "score": 0.0772043988108635 },
+    { "label": "angry", "score": 0.070142962038517 },
+    { "label": "fear", "score": 0.024871906265616417 }
+  ],
+  "images/7_Surprised.jpg": [
+    { "label": "fear", "score": 0.5344927906990051 },
+    { "label": "surprise", "score": 0.22138798236846924 },
+    { "label": "sad", "score": 0.07769017666578293 },
+    { "label": "neutral", "score": 0.07251664251089096 },
+    { "label": "angry", "score": 0.05589577183127403 }
+  ],
+  "images/8_Disgust.jpg": [
+    { "label": "fear", "score": 0.40537962317466736 },
+    { "label": "neutral", "score": 0.2635345160961151 },
+    { "label": "happy", "score": 0.11870677769184113 },
+    { "label": "sad", "score": 0.10584617406129837 },
+    { "label": "angry", "score": 0.05518525466322899 }
+  ],
+  "images/4_Contempt.jpg": [
+    { "label": "sad", "score": 0.7424913644790649 },
+    { "label": "fear", "score": 0.09510196000337601 },
+    { "label": "neutral", "score": 0.06727979332208633 },
+    { "label": "angry", "score": 0.047254715114831924 },
+    { "label": "happy", "score": 0.03202943876385689 }
+  ],
+  "images/4_Happy.jpg": [
+    { "label": "happy", "score": 0.97743159532547 },
+    { "label": "surprise", "score": 0.007190900854766369 },
+    { "label": "neutral", "score": 0.004763718228787184 },
+    { "label": "fear", "score": 0.0033138133585453033 },
+    { "label": "sad", "score": 0.0031190114095807076 }
+  ],
+  "images/16_Sad.jpg": [
+    { "label": "happy", "score": 0.5375432968139648 },
+    { "label": "sad", "score": 0.23628853261470795 },
+    { "label": "neutral", "score": 0.0882515236735344 },
+    { "label": "fear", "score": 0.08203547447919846 },
+    { "label": "surprise", "score": 0.029042275622487068 }
+  ],
+  "images/0_Happy.jpg": [
+    { "label": "happy", "score": 0.9793527722358704 },
+    { "label": "surprise", "score": 0.00754484161734581 },
+    { "label": "neutral", "score": 0.005003855098038912 },
+    { "label": "sad", "score": 0.0026315092109143734 },
+    { "label": "disgust", "score": 0.002190082101151347 }
+  ],
+  "images/0_Anger.jpg": [
+    { "label": "neutral", "score": 0.7297699451446533 },
+    { "label": "sad", "score": 0.1121690422296524 },
+    { "label": "fear", "score": 0.06431389600038528 },
+    { "label": "happy", "score": 0.04064719378948212 },
+    { "label": "angry", "score": 0.03553382679820061 }
+  ],
+  "images/3_Contempt.jpg": [
+    { "label": "neutral", "score": 0.4442514479160309 },
+    { "label": "angry", "score": 0.18648338317871094 },
+    { "label": "happy", "score": 0.14985090494155884 },
+    { "label": "sad", "score": 0.08493539690971375 },
+    { "label": "surprise", "score": 0.05568687617778778 }
+  ],
+  "images/12_Disgust.jpg": [
+    { "label": "happy", "score": 0.4599069356918335 },
+    { "label": "sad", "score": 0.31011030077934265 },
+    { "label": "neutral", "score": 0.1413823813199997 },
+    { "label": "angry", "score": 0.032557081431150436 },
+    { "label": "fear", "score": 0.02071727067232132 }
+  ],
+  "images/14_Fear.jpg": [
+    { "label": "happy", "score": 0.7433329820632935 },
+    { "label": "neutral", "score": 0.1322915256023407 },
+    { "label": "sad", "score": 0.0643869936466217 },
+    { "label": "surprise", "score": 0.03002052567899227 },
+    { "label": "fear", "score": 0.013029486872255802 }
+  ],
+  "images/5_Disgust.jpg": [
+    { "label": "happy", "score": 0.39684587717056274 },
+    { "label": "neutral", "score": 0.16882631182670593 },
+    { "label": "sad", "score": 0.15432427823543549 },
+    { "label": "angry", "score": 0.11342935264110565 },
+    { "label": "fear", "score": 0.09575032442808151 }
+  ],
+  "images/13_Sad.jpg": [
+    { "label": "neutral", "score": 0.308552622795105 },
+    { "label": "happy", "score": 0.2568916976451874 },
+    { "label": "sad", "score": 0.19251187145709991 },
+    { "label": "surprise", "score": 0.11994486302137375 },
+    { "label": "fear", "score": 0.06354024261236191 }
+  ],
+  "images/14_Sad.jpg": [
+    { "label": "neutral", "score": 0.35150572657585144 },
+    { "label": "happy", "score": 0.2586587965488434 },
+    { "label": "sad", "score": 0.24826370179653168 },
+    { "label": "fear", "score": 0.05296047404408455 },
+    { "label": "angry", "score": 0.05001604184508324 }
+  ],
+  "images/18_Happy.jpg": [
+    { "label": "happy", "score": 0.9601569175720215 },
+    { "label": "surprise", "score": 0.023600809276103973 },
+    { "label": "fear", "score": 0.004600282292813063 },
+    { "label": "neutral", "score": 0.004526500590145588 },
+    { "label": "sad", "score": 0.0029976817313581705 }
+  ],
+  "images/10_Happy.jpg": [
+    { "label": "happy", "score": 0.9388824105262756 },
+    { "label": "surprise", "score": 0.018409784883260727 },
+    { "label": "fear", "score": 0.01253762561827898 },
+    { "label": "sad", "score": 0.010004173032939434 },
+    { "label": "neutral", "score": 0.009545871056616306 }
+  ],
+  "images/10_Disgust.jpg": [
+    { "label": "happy", "score": 0.516808271408081 },
+    { "label": "fear", "score": 0.20941907167434692 },
+    { "label": "surprise", "score": 0.13828308880329132 },
+    { "label": "angry", "score": 0.07655860483646393 },
+    { "label": "neutral", "score": 0.022175367921590805 }
+  ],
+  "images/2_Surprised.jpg": [
+    { "label": "sad", "score": 0.8497100472450256 },
+    { "label": "neutral", "score": 0.07230574637651443 },
+    { "label": "fear", "score": 0.03905102238059044 },
+    { "label": "happy", "score": 0.013525964692234993 },
+    { "label": "angry", "score": 0.012996348552405834 }
+  ],
+  "images/14_Disgust.jpg": [
+    { "label": "neutral", "score": 0.3318731188774109 },
+    { "label": "sad", "score": 0.29009103775024414 },
+    { "label": "happy", "score": 0.21381285786628723 },
+    { "label": "fear", "score": 0.049398355185985565 },
+    { "label": "angry", "score": 0.04936283454298973 }
+  ],
+  "images/16_Neutral.jpg": [
+    { "label": "sad", "score": 0.33399733901023865 },
+    { "label": "neutral", "score": 0.25102871656417847 },
+    { "label": "happy", "score": 0.15938350558280945 },
+    { "label": "fear", "score": 0.12906396389007568 },
+    { "label": "surprise", "score": 0.07232356816530228 }
+  ],
+  "images/16_Contempt.jpg": [
+    { "label": "neutral", "score": 0.38128462433815 },
+    { "label": "fear", "score": 0.21748819947242737 },
+    { "label": "sad", "score": 0.16978177428245544 },
+    { "label": "angry", "score": 0.11395341902971268 },
+    { "label": "happy", "score": 0.08448129147291183 }
+  ],
+  "images/12_Sad.jpg": [
+    { "label": "sad", "score": 0.6363884210586548 },
+    { "label": "neutral", "score": 0.17276471853256226 },
+    { "label": "happy", "score": 0.062123533338308334 },
+    { "label": "angry", "score": 0.05674456059932709 },
+    { "label": "fear", "score": 0.037130050361156464 }
+  ],
+  "images/15_Happy.jpg": [
+    { "label": "happy", "score": 0.7932384014129639 },
+    { "label": "neutral", "score": 0.1301720291376114 },
+    { "label": "sad", "score": 0.03633077070116997 },
+    { "label": "fear", "score": 0.01510527916252613 },
+    { "label": "surprise", "score": 0.014305113814771175 }
+  ],
+  "images/14_Anger.jpg": [
+    { "label": "sad", "score": 0.21438826620578766 },
+    { "label": "angry", "score": 0.20849476754665375 },
+    { "label": "fear", "score": 0.19623999297618866 },
+    { "label": "neutral", "score": 0.1905401349067688 },
+    { "label": "happy", "score": 0.14365841448307037 }
+  ],
+  "images/18_Neutral.jpg": [
+    { "label": "neutral", "score": 0.5124595761299133 },
+    { "label": "sad", "score": 0.18489773571491241 },
+    { "label": "fear", "score": 0.1679164618253708 },
+    { "label": "happy", "score": 0.05712622404098511 },
+    { "label": "surprise", "score": 0.05169909447431564 }
+  ],
+  "images/14_Surprised.jpg": [
+    { "label": "happy", "score": 0.5946229696273804 },
+    { "label": "sad", "score": 0.16231095790863037 },
+    { "label": "neutral", "score": 0.1019757091999054 },
+    { "label": "surprise", "score": 0.04874255135655403 },
+    { "label": "angry", "score": 0.04509228840470314 }
+  ],
+  "images/9_Happy.jpg": [
+    { "label": "happy", "score": 0.9769079685211182 },
+    { "label": "surprise", "score": 0.0076596480794250965 },
+    { "label": "neutral", "score": 0.005980820395052433 },
+    { "label": "sad", "score": 0.0031632818281650543 },
+    { "label": "fear", "score": 0.002737258095294237 }
+  ],
+  "images/11_Sad.jpg": [
+    { "label": "neutral", "score": 0.36686062812805176 },
+    { "label": "sad", "score": 0.3635783791542053 },
+    { "label": "fear", "score": 0.15276256203651428 },
+    { "label": "happy", "score": 0.05529380217194557 },
+    { "label": "angry", "score": 0.02686171606183052 }
+  ],
+  "images/8_Anger.jpg": [
+    { "label": "neutral", "score": 0.32000187039375305 },
+    { "label": "sad", "score": 0.19174744188785553 },
+    { "label": "fear", "score": 0.1760060042142868 },
+    { "label": "happy", "score": 0.14065438508987427 },
+    { "label": "angry", "score": 0.12021687626838684 }
+  ],
+  "images/13_Anger.jpg": [
+    { "label": "sad", "score": 0.6340854167938232 },
+    { "label": "angry", "score": 0.19655939936637878 },
+    { "label": "fear", "score": 0.08541925251483917 },
+    { "label": "neutral", "score": 0.05223109573125839 },
+    { "label": "surprise", "score": 0.014056680724024773 }
+  ],
+  "images/12_Anger.jpg": [
+    { "label": "happy", "score": 0.9164114594459534 },
+    { "label": "neutral", "score": 0.046031735837459564 },
+    { "label": "sad", "score": 0.0138759920373559 },
+    { "label": "surprise", "score": 0.011158492416143417 },
+    { "label": "disgust", "score": 0.0049360934644937515 }
+  ],
+  "images/12_Fear.jpg": [
+    { "label": "neutral", "score": 0.5999516248703003 },
+    { "label": "sad", "score": 0.20345616340637207 },
+    { "label": "happy", "score": 0.0792393758893013 },
+    { "label": "angry", "score": 0.05585932731628418 },
+    { "label": "fear", "score": 0.02676950767636299 }
+  ],
+  "images/6_Sad.jpg": [
+    { "label": "neutral", "score": 0.4770425856113434 },
+    { "label": "happy", "score": 0.406088650226593 },
+    { "label": "sad", "score": 0.04773889109492302 },
+    { "label": "angry", "score": 0.0223984494805336 },
+    { "label": "surprise", "score": 0.020377136766910553 }
+  ],
+  "images/13_Surprised.jpg": [
+    { "label": "surprise", "score": 0.9536295533180237 },
+    { "label": "angry", "score": 0.020119130611419678 },
+    { "label": "fear", "score": 0.012435556389391422 },
+    { "label": "happy", "score": 0.006794768385589123 },
+    { "label": "disgust", "score": 0.00277737807482481 }
+  ],
+  "images/4_Surprised.jpg": [
+    { "label": "sad", "score": 0.4535544216632843 },
+    { "label": "fear", "score": 0.21555964648723602 },
+    { "label": "neutral", "score": 0.11700980365276337 },
+    { "label": "surprise", "score": 0.09716140478849411 },
+    { "label": "happy", "score": 0.0643482357263565 }
+  ],
+  "images/6_Disgust.jpg": [
+    { "label": "happy", "score": 0.7320623993873596 },
+    { "label": "neutral", "score": 0.1788242906332016 },
+    { "label": "angry", "score": 0.03319206088781357 },
+    { "label": "surprise", "score": 0.017878994345664978 },
+    { "label": "sad", "score": 0.015340851619839668 }
+  ],
+  "images/9_Sad.jpg": [
+    { "label": "sad", "score": 0.5867412686347961 },
+    { "label": "neutral", "score": 0.2048032581806183 },
+    { "label": "happy", "score": 0.1087527647614479 },
+    { "label": "angry", "score": 0.05465137958526611 },
+    { "label": "fear", "score": 0.032642435282468796 }
+  ],
+  "images/18_Anger.jpg": [
+    { "label": "fear", "score": 0.5115450024604797 },
+    { "label": "neutral", "score": 0.15825095772743225 },
+    { "label": "sad", "score": 0.13466055691242218 },
+    { "label": "angry", "score": 0.0792250856757164 },
+    { "label": "surprise", "score": 0.07790515571832657 }
+  ],
+  "images/5_Sad.jpg": [
+    { "label": "neutral", "score": 0.34634873270988464 },
+    { "label": "sad", "score": 0.19627998769283295 },
+    { "label": "angry", "score": 0.1930716335773468 },
+    { "label": "fear", "score": 0.10514317452907562 },
+    { "label": "happy", "score": 0.07777174562215805 }
+  ],
+  "images/6_Anger.jpg": [
+    { "label": "neutral", "score": 0.39590051770210266 },
+    { "label": "happy", "score": 0.3770180642604828 },
+    { "label": "angry", "score": 0.10575847327709198 },
+    { "label": "sad", "score": 0.07599567621946335 },
+    { "label": "fear", "score": 0.016323905438184738 }
+  ],
+  "images/18_Sad.jpg": [
+    { "label": "fear", "score": 0.4904348850250244 },
+    { "label": "happy", "score": 0.21228766441345215 },
+    { "label": "sad", "score": 0.11532358825206757 },
+    { "label": "neutral", "score": 0.09409426897764206 },
+    { "label": "surprise", "score": 0.07010502368211746 }
+  ],
+  "images/15_Anger.jpg": [
+    { "label": "sad", "score": 0.6003481149673462 },
+    { "label": "fear", "score": 0.19529296457767487 },
+    { "label": "angry", "score": 0.11709046363830566 },
+    { "label": "neutral", "score": 0.059538353234529495 },
+    { "label": "happy", "score": 0.011108116246759892 }
+  ],
+  "images/3_Anger.jpg": [
+    { "label": "neutral", "score": 0.3841297924518585 },
+    { "label": "angry", "score": 0.34913307428359985 },
+    { "label": "sad", "score": 0.09514451771974564 },
+    { "label": "fear", "score": 0.060266733169555664 },
+    { "label": "surprise", "score": 0.0511518158018589 }
+  ],
+  "images/1_Contempt.jpg": [
+    { "label": "happy", "score": 0.340756893157959 },
+    { "label": "neutral", "score": 0.3338797986507416 },
+    { "label": "sad", "score": 0.22439658641815186 },
+    { "label": "fear", "score": 0.044264648109674454 },
+    { "label": "surprise", "score": 0.03265461325645447 }
+  ],
+  "images/16_Happy.jpg": [
+    { "label": "happy", "score": 0.9746567010879517 },
+    { "label": "neutral", "score": 0.006264740135520697 },
+    { "label": "surprise", "score": 0.0059913285076618195 },
+    { "label": "sad", "score": 0.005458432249724865 },
+    { "label": "fear", "score": 0.003094439161941409 }
+  ],
+  "images/5_Fear.jpg": [
+    { "label": "angry", "score": 0.2967570424079895 },
+    { "label": "sad", "score": 0.20137159526348114 },
+    { "label": "neutral", "score": 0.18907378613948822 },
+    { "label": "fear", "score": 0.13645115494728088 },
+    { "label": "happy", "score": 0.09755446761846542 }
+  ],
+  "images/2_Contempt.jpg": [
+    { "label": "sad", "score": 0.9398602247238159 },
+    { "label": "neutral", "score": 0.01940343715250492 },
+    { "label": "fear", "score": 0.017385482788085938 },
+    { "label": "angry", "score": 0.011412170715630054 },
+    { "label": "happy", "score": 0.008602101355791092 }
+  ],
+  "images/2_Anger.jpg": [
+    { "label": "sad", "score": 0.9034141898155212 },
+    { "label": "angry", "score": 0.03311265632510185 },
+    { "label": "fear", "score": 0.02276141382753849 },
+    { "label": "happy", "score": 0.01901063695549965 },
+    { "label": "neutral", "score": 0.016086071729660034 }
+  ],
+  "images/11_Disgust.jpg": [
+    { "label": "sad", "score": 0.7188295125961304 },
+    { "label": "neutral", "score": 0.08749428391456604 },
+    { "label": "fear", "score": 0.08440688997507095 },
+    { "label": "angry", "score": 0.03830104321241379 },
+    { "label": "happy", "score": 0.03319469839334488 }
+  ],
+  "images/5_Contempt.jpg": [
+    { "label": "sad", "score": 0.2241877019405365 },
+    { "label": "angry", "score": 0.22051508724689484 },
+    { "label": "happy", "score": 0.19589464366436005 },
+    { "label": "neutral", "score": 0.18145279586315155 },
+    { "label": "fear", "score": 0.0947623997926712 }
+  ],
+  "images/15_Neutral.jpg": [
+    { "label": "sad", "score": 0.4815417230129242 },
+    { "label": "neutral", "score": 0.3505602478981018 },
+    { "label": "fear", "score": 0.10624249279499054 },
+    { "label": "angry", "score": 0.025616470724344254 },
+    { "label": "happy", "score": 0.018506726250052452 }
+  ],
+  "images/6_Fear.jpg": [
+    { "label": "neutral", "score": 0.7784620523452759 },
+    { "label": "happy", "score": 0.0828556939959526 },
+    { "label": "sad", "score": 0.047735560685396194 },
+    { "label": "fear", "score": 0.03857935220003128 },
+    { "label": "angry", "score": 0.03136250376701355 }
+  ],
+  "images/9_Neutral.jpg": [
+    { "label": "neutral", "score": 0.3121644854545593 },
+    { "label": "sad", "score": 0.2680201232433319 },
+    { "label": "angry", "score": 0.179567351937294 },
+    { "label": "happy", "score": 0.15861353278160095 },
+    { "label": "fear", "score": 0.04564416781067848 }
+  ],
+  "images/17_Happy.jpg": [
+    { "label": "happy", "score": 0.3831723928451538 },
+    { "label": "neutral", "score": 0.35230371356010437 },
+    { "label": "sad", "score": 0.11992433667182922 },
+    { "label": "surprise", "score": 0.07372234016656876 },
+    { "label": "fear", "score": 0.03912119194865227 }
+  ],
+  "images/10_Neutral.jpg": [
+    { "label": "neutral", "score": 0.5158821940422058 },
+    { "label": "happy", "score": 0.18047618865966797 },
+    { "label": "fear", "score": 0.09013732522726059 },
+    { "label": "sad", "score": 0.08704858273267746 },
+    { "label": "angry", "score": 0.07173227518796921 }
+  ],
+  "images/7_Anger.jpg": [
+    { "label": "neutral", "score": 0.5979772806167603 },
+    { "label": "sad", "score": 0.12495359033346176 },
+    { "label": "happy", "score": 0.09977439045906067 },
+    { "label": "angry", "score": 0.07956911623477936 },
+    { "label": "fear", "score": 0.05674874782562256 }
+  ],
+  "images/17_Contempt.jpg": [
+    { "label": "sad", "score": 0.6623799800872803 },
+    { "label": "neutral", "score": 0.15436020493507385 },
+    { "label": "fear", "score": 0.09190679341554642 },
+    { "label": "happy", "score": 0.05136127769947052 },
+    { "label": "angry", "score": 0.017002655193209648 }
+  ],
+  "images/17_Surprised.jpg": [
+    { "label": "surprise", "score": 0.9367363452911377 },
+    { "label": "fear", "score": 0.027181435376405716 },
+    { "label": "happy", "score": 0.011097952723503113 },
+    { "label": "sad", "score": 0.009204083122313023 },
+    { "label": "neutral", "score": 0.006286869291216135 }
+  ],
+  "images/16_Surprised.jpg": [
+    { "label": "neutral", "score": 0.2261383831501007 },
+    { "label": "fear", "score": 0.2233501374721527 },
+    { "label": "sad", "score": 0.20728351175785065 },
+    { "label": "happy", "score": 0.11963970959186554 },
+    { "label": "angry", "score": 0.11182841658592224 }
+  ],
+  "images/8_Happy.jpg": [
+    { "label": "happy", "score": 0.7946038842201233 },
+    { "label": "neutral", "score": 0.07773889601230621 },
+    { "label": "sad", "score": 0.04677209258079529 },
+    { "label": "fear", "score": 0.03103073686361313 },
+    { "label": "angry", "score": 0.024936998263001442 }
+  ],
+  "images/1_Anger.jpg": [
+    { "label": "sad", "score": 0.3762245774269104 },
+    { "label": "neutral", "score": 0.3216802179813385 },
+    { "label": "happy", "score": 0.18419630825519562 },
+    { "label": "angry", "score": 0.08617702126502991 },
+    { "label": "fear", "score": 0.016355616971850395 }
+  ],
+  "images/5_Happy.jpg": [
+    { "label": "happy", "score": 0.774970531463623 },
+    { "label": "neutral", "score": 0.07779815793037415 },
+    { "label": "sad", "score": 0.04814920201897621 },
+    { "label": "fear", "score": 0.04248235747218132 },
+    { "label": "angry", "score": 0.02649979293346405 }
+  ],
+  "images/11_Anger.jpg": [
+    { "label": "sad", "score": 0.5532582402229309 },
+    { "label": "neutral", "score": 0.24363520741462708 },
+    { "label": "happy", "score": 0.06979753822088242 },
+    { "label": "fear", "score": 0.05614224076271057 },
+    { "label": "angry", "score": 0.0503716804087162 }
+  ],
+  "images/3_Fear.jpg": [
+    { "label": "neutral", "score": 0.44145897030830383 },
+    { "label": "angry", "score": 0.2076430767774582 },
+    { "label": "surprise", "score": 0.10601715743541718 },
+    { "label": "fear", "score": 0.0811525508761406 },
+    { "label": "sad", "score": 0.07448174804449081 }
+  ],
+  "images/0_Fear.jpg": [
+    { "label": "fear", "score": 0.6406375765800476 },
+    { "label": "surprise", "score": 0.2691839337348938 },
+    { "label": "angry", "score": 0.03278845548629761 },
+    { "label": "happy", "score": 0.02377776801586151 },
+    { "label": "sad", "score": 0.02066298946738243 }
+  ],
+  "images/13_Disgust.jpg": [
+    { "label": "fear", "score": 0.4791199266910553 },
+    { "label": "sad", "score": 0.26732057332992554 },
+    { "label": "angry", "score": 0.16600382328033447 },
+    { "label": "neutral", "score": 0.040174394845962524 },
+    { "label": "surprise", "score": 0.019688798114657402 }
+  ],
+  "images/18_Disgust.jpg": [
+    { "label": "happy", "score": 0.8477910757064819 },
+    { "label": "sad", "score": 0.07920435070991516 },
+    { "label": "neutral", "score": 0.03958745300769806 },
+    { "label": "fear", "score": 0.011341268196702003 },
+    { "label": "surprise", "score": 0.009185723029077053 }
+  ],
+  "images/4_Anger.jpg": [
+    { "label": "sad", "score": 0.4600413739681244 },
+    { "label": "neutral", "score": 0.2702084183692932 },
+    { "label": "fear", "score": 0.17142407596111298 },
+    { "label": "happy", "score": 0.04552846401929855 },
+    { "label": "angry", "score": 0.0374065563082695 }
+  ],
+  "images/18_Surprised.jpg": [
+    { "label": "surprise", "score": 0.31103911995887756 },
+    { "label": "sad", "score": 0.24632517993450165 },
+    { "label": "fear", "score": 0.21948111057281494 },
+    { "label": "neutral", "score": 0.09728718549013138 },
+    { "label": "happy", "score": 0.047501157969236374 }
+  ],
+  "images/11_Happy.jpg": [
+    { "label": "happy", "score": 0.5788527727127075 },
+    { "label": "neutral", "score": 0.22509807348251343 },
+    { "label": "sad", "score": 0.10305827856063843 },
+    { "label": "fear", "score": 0.031149830669164658 },
+    { "label": "surprise", "score": 0.02353965863585472 }
+  ],
+  "images/7_Neutral.jpg": [
+    { "label": "neutral", "score": 0.5173047184944153 },
+    { "label": "sad", "score": 0.1825982630252838 },
+    { "label": "happy", "score": 0.1556404083967209 },
+    { "label": "angry", "score": 0.06230710446834564 },
+    { "label": "fear", "score": 0.04352279752492905 }
+  ],
+  "images/9_Fear.jpg": [
+    { "label": "surprise", "score": 0.8482903838157654 },
+    { "label": "fear", "score": 0.06631023436784744 },
+    { "label": "happy", "score": 0.03708726540207863 },
+    { "label": "angry", "score": 0.031102769076824188 },
+    { "label": "sad", "score": 0.00806223601102829 }
+  ],
+  "images/0_Sad.jpg": [
+    { "label": "happy", "score": 0.41538286209106445 },
+    { "label": "neutral", "score": 0.40304094552993774 },
+    { "label": "sad", "score": 0.06273722648620605 },
+    { "label": "angry", "score": 0.04129784181714058 },
+    { "label": "fear", "score": 0.040880102664232254 }
+  ],
+  "images/1_Surprised.jpg": [
+    { "label": "neutral", "score": 0.41869768500328064 },
+    { "label": "sad", "score": 0.2804100215435028 },
+    { "label": "happy", "score": 0.2043612003326416 },
+    { "label": "surprise", "score": 0.033211711794137955 },
+    { "label": "fear", "score": 0.03171372413635254 }
+  ],
+  "images/11_Fear.jpg": [
+    { "label": "sad", "score": 0.7059744000434875 },
+    { "label": "neutral", "score": 0.07519184052944183 },
+    { "label": "fear", "score": 0.06345362961292267 },
+    { "label": "happy", "score": 0.05678024888038635 },
+    { "label": "angry", "score": 0.05147090554237366 }
+  ],
+  "images/8_Surprised.jpg": [
+    { "label": "neutral", "score": 0.414715051651001 },
+    { "label": "sad", "score": 0.21365149319171906 },
+    { "label": "fear", "score": 0.1848522424697876 },
+    { "label": "happy", "score": 0.07680969685316086 },
+    { "label": "angry", "score": 0.058324359357357025 }
+  ],
+  "images/17_Disgust.jpg": [
+    { "label": "sad", "score": 0.6207547187805176 },
+    { "label": "fear", "score": 0.13125473260879517 },
+    { "label": "happy", "score": 0.0929114893078804 },
+    { "label": "neutral", "score": 0.07209709286689758 },
+    { "label": "surprise", "score": 0.057013139128685 }
+  ],
+  "images/4_Neutral.jpg": [
+    { "label": "sad", "score": 0.5533443093299866 },
+    { "label": "fear", "score": 0.21919940412044525 },
+    { "label": "neutral", "score": 0.1225932314991951 },
+    { "label": "angry", "score": 0.05292600393295288 },
+    { "label": "happy", "score": 0.025113016366958618 }
+  ],
+  "images/2_Disgust.jpg": [
+    { "label": "sad", "score": 0.6233340501785278 },
+    { "label": "neutral", "score": 0.20858368277549744 },
+    { "label": "happy", "score": 0.09829381108283997 },
+    { "label": "angry", "score": 0.03135522082448006 },
+    { "label": "fear", "score": 0.02616012655198574 }
+  ],
+  "images/3_Neutral.jpg": [
+    { "label": "neutral", "score": 0.693581759929657 },
+    { "label": "angry", "score": 0.09012938290834427 },
+    { "label": "sad", "score": 0.05605055019259453 },
+    { "label": "happy", "score": 0.05526110902428627 },
+    { "label": "fear", "score": 0.04331588372588158 }
+  ],
+  "images/9_Disgust.jpg": [
+    { "label": "happy", "score": 0.46471235156059265 },
+    { "label": "sad", "score": 0.21829929947853088 },
+    { "label": "angry", "score": 0.16730260848999023 },
+    { "label": "neutral", "score": 0.07835400104522705 },
+    { "label": "fear", "score": 0.028953367844223976 }
+  ],
+  "images/2_Sad.jpg": [
+    { "label": "sad", "score": 0.9503536224365234 },
+    { "label": "neutral", "score": 0.013940931297838688 },
+    { "label": "angry", "score": 0.012007295154035091 },
+    { "label": "fear", "score": 0.011195199564099312 },
+    { "label": "happy", "score": 0.008347166702151299 }
+  ],
+  "images/4_Sad.jpg": [
+    { "label": "sad", "score": 0.7500904202461243 },
+    { "label": "fear", "score": 0.13922232389450073 },
+    { "label": "neutral", "score": 0.05236933380365372 },
+    { "label": "angry", "score": 0.03958635404706001 },
+    { "label": "happy", "score": 0.007457522675395012 }
+  ],
+  "images/10_Anger.jpg": [
+    { "label": "happy", "score": 0.9388824105262756 },
+    { "label": "surprise", "score": 0.018409784883260727 },
+    { "label": "fear", "score": 0.01253762561827898 },
+    { "label": "sad", "score": 0.010004173032939434 },
+    { "label": "neutral", "score": 0.009545871056616306 }
+  ],
+  "images/3_Surprised.jpg": [
+    { "label": "surprise", "score": 0.5797061920166016 },
+    { "label": "fear", "score": 0.15611140429973602 },
+    { "label": "neutral", "score": 0.08749260008335114 },
+    { "label": "angry", "score": 0.07958029955625534 },
+    { "label": "happy", "score": 0.04063442349433899 }
+  ],
+  "images/10_Sad.jpg": [
+    { "label": "happy", "score": 0.6514466404914856 },
+    { "label": "fear", "score": 0.08755006641149521 },
+    { "label": "sad", "score": 0.08620575815439224 },
+    { "label": "neutral", "score": 0.07078677415847778 },
+    { "label": "angry", "score": 0.057516325265169144 }
+  ],
+  "images/7_Happy.jpg": [
+    { "label": "happy", "score": 0.5210350751876831 },
+    { "label": "neutral", "score": 0.3433186709880829 },
+    { "label": "sad", "score": 0.05256878212094307 },
+    { "label": "surprise", "score": 0.03768617659807205 },
+    { "label": "fear", "score": 0.026513077318668365 }
+  ],
+  "images/9_Contempt.jpg": [
+    { "label": "fear", "score": 0.6761757135391235 },
+    { "label": "neutral", "score": 0.10362941026687622 },
+    { "label": "angry", "score": 0.09763581305742264 },
+    { "label": "sad", "score": 0.07280587404966354 },
+    { "label": "happy", "score": 0.023211995139718056 }
+  ],
+  "images/6_Surprised.jpg": [
+    { "label": "neutral", "score": 0.3827424645423889 },
+    { "label": "happy", "score": 0.13839532434940338 },
+    { "label": "surprise", "score": 0.13425861299037933 },
+    { "label": "angry", "score": 0.12577524781227112 },
+    { "label": "fear", "score": 0.11627256870269775 }
+  ],
+  "images/15_Surprised.jpg": [
+    { "label": "surprise", "score": 0.9344051480293274 },
+    { "label": "fear", "score": 0.038775309920310974 },
+    { "label": "happy", "score": 0.005942726042121649 },
+    { "label": "neutral", "score": 0.005656699649989605 },
+    { "label": "sad", "score": 0.005634654778987169 }
+  ],
+  "images/6_Neutral.jpg": [
+    { "label": "happy", "score": 0.3844124376773834 },
+    { "label": "neutral", "score": 0.3347855806350708 },
+    { "label": "angry", "score": 0.15575744211673737 },
+    { "label": "sad", "score": 0.054639946669340134 },
+    { "label": "fear", "score": 0.029582267627120018 }
+  ],
+  "images/0_Neutral.jpg": [
+    { "label": "neutral", "score": 0.7324163913726807 },
+    { "label": "angry", "score": 0.09032531082630157 },
+    { "label": "sad", "score": 0.06932999193668365 },
+    { "label": "happy", "score": 0.05598977580666542 },
+    { "label": "fear", "score": 0.03035297989845276 }
+  ],
+  "images/1_Happy.jpg": [
+    { "label": "happy", "score": 0.9649391770362854 },
+    { "label": "neutral", "score": 0.011414134874939919 },
+    { "label": "surprise", "score": 0.010630271397531033 },
+    { "label": "sad", "score": 0.006214355118572712 },
+    { "label": "fear", "score": 0.0024442451540380716 }
+  ],
+  "images/4_Disgust.jpg": [
+    { "label": "sad", "score": 0.5160155296325684 },
+    { "label": "fear", "score": 0.20615093410015106 },
+    { "label": "neutral", "score": 0.13642618060112 },
+    { "label": "happy", "score": 0.06094728782773018 },
+    { "label": "angry", "score": 0.050231266766786575 }
+  ],
+  "images/6_Contempt.jpg": [
+    { "label": "happy", "score": 0.5446602702140808 },
+    { "label": "neutral", "score": 0.34839436411857605 },
+    { "label": "angry", "score": 0.035520315170288086 },
+    { "label": "sad", "score": 0.03379127383232117 },
+    { "label": "surprise", "score": 0.015416535548865795 }
+  ],
+  "images/5_Neutral.jpg": [
+    { "label": "neutral", "score": 0.4135245382785797 },
+    { "label": "sad", "score": 0.18744246661663055 },
+    { "label": "angry", "score": 0.17788785696029663 },
+    { "label": "happy", "score": 0.09422748535871506 },
+    { "label": "fear", "score": 0.07918534427881241 }
+  ],
+  "images/12_Contempt.jpg": [
+    { "label": "sad", "score": 0.6390453577041626 },
+    { "label": "neutral", "score": 0.16008800268173218 },
+    { "label": "happy", "score": 0.09525040537118912 },
+    { "label": "angry", "score": 0.04963432624936104 },
+    { "label": "fear", "score": 0.03263087943196297 }
+  ],
+  "images/10_Surprised.jpg": [
+    { "label": "fear", "score": 0.6576063632965088 },
+    { "label": "surprise", "score": 0.17397886514663696 },
+    { "label": "angry", "score": 0.08933202922344208 },
+    { "label": "happy", "score": 0.042661670595407486 },
+    { "label": "sad", "score": 0.015522411093115807 }
+  ],
+  "images/16_Fear.jpg": [
+    { "label": "fear", "score": 0.5194957852363586 },
+    { "label": "surprise", "score": 0.20218466222286224 },
+    { "label": "sad", "score": 0.10725711286067963 },
+    { "label": "happy", "score": 0.06944803893566132 },
+    { "label": "neutral", "score": 0.052374377846717834 }
+  ],
+  "images/15_Sad.jpg": [
+    { "label": "sad", "score": 0.5196622014045715 },
+    { "label": "neutral", "score": 0.27914291620254517 },
+    { "label": "fear", "score": 0.10870346426963806 },
+    { "label": "angry", "score": 0.04117732495069504 },
+    { "label": "happy", "score": 0.02470611222088337 }
+  ],
+  "images/1_Disgust.jpg": [
+    { "label": "happy", "score": 0.7632826566696167 },
+    { "label": "neutral", "score": 0.10746084898710251 },
+    { "label": "sad", "score": 0.06920181214809418 },
+    { "label": "surprise", "score": 0.021679894998669624 },
+    { "label": "angry", "score": 0.018250280991196632 }
+  ],
+  "images/12_Surprised.jpg": [
+    { "label": "neutral", "score": 0.3047366440296173 },
+    { "label": "sad", "score": 0.2823852002620697 },
+    { "label": "happy", "score": 0.2493826299905777 },
+    { "label": "surprise", "score": 0.056881293654441833 },
+    { "label": "fear", "score": 0.0413646399974823 }
+  ],
+  "images/8_Fear.jpg": [
+    { "label": "neutral", "score": 0.48060089349746704 },
+    { "label": "sad", "score": 0.2336549013853073 },
+    { "label": "fear", "score": 0.15528777241706848 },
+    { "label": "angry", "score": 0.04879767447710037 },
+    { "label": "happy", "score": 0.04594874754548073 }
+  ],
+  "images/4_Fear.jpg": [
+    { "label": "fear", "score": 0.6341080665588379 },
+    { "label": "sad", "score": 0.17261654138565063 },
+    { "label": "angry", "score": 0.076783187687397 },
+    { "label": "surprise", "score": 0.06853150576353073 },
+    { "label": "happy", "score": 0.018288327381014824 }
+  ],
+  "images/14_Happy.jpg": [
+    { "label": "happy", "score": 0.9544330835342407 },
+    { "label": "neutral", "score": 0.011758136563003063 },
+    { "label": "surprise", "score": 0.011326096951961517 },
+    { "label": "sad", "score": 0.01001016329973936 },
+    { "label": "angry", "score": 0.004956716671586037 }
+  ],
+  "images/15_Contempt.jpg": [
+    { "label": "sad", "score": 0.750180721282959 },
+    { "label": "fear", "score": 0.11349554359912872 },
+    { "label": "neutral", "score": 0.09836512804031372 },
+    { "label": "angry", "score": 0.016345294192433357 },
+    { "label": "happy", "score": 0.010211986489593983 }
+  ],
+  "images/11_Surprised.jpg": [
+    { "label": "sad", "score": 0.4289594888687134 },
+    { "label": "neutral", "score": 0.3450508415699005 },
+    { "label": "fear", "score": 0.07334299385547638 },
+    { "label": "happy", "score": 0.06370522081851959 },
+    { "label": "angry", "score": 0.04817696660757065 }
+  ],
+  "images/18_Contempt.jpg": [
+    { "label": "neutral", "score": 0.39935779571533203 },
+    { "label": "fear", "score": 0.394452840089798 },
+    { "label": "sad", "score": 0.07473364472389221 },
+    { "label": "happy", "score": 0.06905157119035721 },
+    { "label": "surprise", "score": 0.02747325599193573 }
+  ],
+  "images/17_Sad.jpg": [
+    { "label": "sad", "score": 0.6252514719963074 },
+    { "label": "neutral", "score": 0.1809389889240265 },
+    { "label": "happy", "score": 0.06989488750696182 },
+    { "label": "fear", "score": 0.05972788855433464 },
+    { "label": "surprise", "score": 0.030934041365981102 }
+  ],
+  "images/13_Fear.jpg": [
+    { "label": "sad", "score": 0.42718505859375 },
+    { "label": "angry", "score": 0.3017056882381439 },
+    { "label": "fear", "score": 0.09772419184446335 },
+    { "label": "happy", "score": 0.07166248559951782 },
+    { "label": "neutral", "score": 0.0551893413066864 }
+  ],
+  "images/3_Happy.jpg": [
+    { "label": "happy", "score": 0.9336087107658386 },
+    { "label": "neutral", "score": 0.029336733743548393 },
+    { "label": "surprise", "score": 0.014810520224273205 },
+    { "label": "sad", "score": 0.006215029861778021 },
+    { "label": "disgust", "score": 0.005685002543032169 }
+  ],
+  "images/16_Anger.jpg": [
+    { "label": "happy", "score": 0.4838866591453552 },
+    { "label": "neutral", "score": 0.23021824657917023 },
+    { "label": "sad", "score": 0.18166689574718475 },
+    { "label": "fear", "score": 0.04012133181095123 },
+    { "label": "angry", "score": 0.028222912922501564 }
+  ],
+  "images/17_Neutral.jpg": [
+    { "label": "neutral", "score": 0.4413694143295288 },
+    { "label": "sad", "score": 0.31181272864341736 },
+    { "label": "happy", "score": 0.10782948136329651 },
+    { "label": "surprise", "score": 0.052873700857162476 },
+    { "label": "fear", "score": 0.046967897564172745 }
+  ],
+  "images/5_Surprised.jpg": [
+    { "label": "angry", "score": 0.31709370017051697 },
+    { "label": "fear", "score": 0.20471259951591492 },
+    { "label": "sad", "score": 0.16378329694271088 },
+    { "label": "neutral", "score": 0.14171536266803741 },
+    { "label": "happy", "score": 0.11380445212125778 }
+  ],
+  "images/11_Neutral.jpg": [
+    { "label": "sad", "score": 0.43632325530052185 },
+    { "label": "neutral", "score": 0.27913233637809753 },
+    { "label": "happy", "score": 0.09630343317985535 },
+    { "label": "fear", "score": 0.07870534807443619 },
+    { "label": "angry", "score": 0.06473229825496674 }
+  ],
+  "images/0_Disgust.jpg": [
+    { "label": "neutral", "score": 0.44670936465263367 },
+    { "label": "happy", "score": 0.26480624079704285 },
+    { "label": "sad", "score": 0.18533584475517273 },
+    { "label": "angry", "score": 0.03737633675336838 },
+    { "label": "fear", "score": 0.032447945326566696 }
+  ],
+  "images/17_Anger.jpg": [
+    { "label": "sad", "score": 0.7144203782081604 },
+    { "label": "fear", "score": 0.16339173913002014 },
+    { "label": "neutral", "score": 0.05042729526758194 },
+    { "label": "happy", "score": 0.027056531980633736 },
+    { "label": "surprise", "score": 0.02238522842526436 }
+  ],
+  "images/14_Contempt.jpg": [
+    { "label": "sad", "score": 0.4774080812931061 },
+    { "label": "fear", "score": 0.1486807018518448 },
+    { "label": "happy", "score": 0.13912393152713776 },
+    { "label": "neutral", "score": 0.1209377571940422 },
+    { "label": "angry", "score": 0.07529564946889877 }
+  ],
+  "images/13_Contempt.jpg": [
+    { "label": "sad", "score": 0.3608240485191345 },
+    { "label": "neutral", "score": 0.33583059906959534 },
+    { "label": "happy", "score": 0.1520526111125946 },
+    { "label": "fear", "score": 0.06759069859981537 },
+    { "label": "angry", "score": 0.04161994159221649 }
+  ],
+  "images/18_Fear.jpg": [
+    { "label": "surprise", "score": 0.4870270788669586 },
+    { "label": "fear", "score": 0.21166634559631348 },
+    { "label": "neutral", "score": 0.18144676089286804 },
+    { "label": "sad", "score": 0.04367747902870178 },
+    { "label": "happy", "score": 0.04006049409508705 }
+  ],
+  "images/12_Neutral.jpg": [
+    { "label": "neutral", "score": 0.5878410339355469 },
+    { "label": "happy", "score": 0.2508540749549866 },
+    { "label": "sad", "score": 0.11185797303915024 },
+    { "label": "fear", "score": 0.021035771816968918 },
+    { "label": "surprise", "score": 0.01033010333776474 }
+  ],
+  "images/15_Fear.jpg": [
+    { "label": "sad", "score": 0.41990572214126587 },
+    { "label": "neutral", "score": 0.29454800486564636 },
+    { "label": "fear", "score": 0.21112264692783356 },
+    { "label": "angry", "score": 0.0324418731033802 },
+    { "label": "happy", "score": 0.017191296443343163 }
+  ],
+  "images/7_Disgust.jpg": [
+    { "label": "neutral", "score": 0.3957562744617462 },
+    { "label": "happy", "score": 0.300373911857605 },
+    { "label": "sad", "score": 0.1594116985797882 },
+    { "label": "angry", "score": 0.0574011392891407 },
+    { "label": "surprise", "score": 0.037528060376644135 }
+  ],
+  "images/0_Contempt.jpg": [
+    { "label": "neutral", "score": 0.4458012282848358 },
+    { "label": "sad", "score": 0.22174638509750366 },
+    { "label": "happy", "score": 0.12171774357557297 },
+    { "label": "angry", "score": 0.09664130210876465 },
+    { "label": "fear", "score": 0.0828932523727417 }
+  ],
+  "images/7_Fear.jpg": [
+    { "label": "fear", "score": 0.28027546405792236 },
+    { "label": "neutral", "score": 0.23635736107826233 },
+    { "label": "sad", "score": 0.21131262183189392 },
+    { "label": "surprise", "score": 0.11768287420272827 },
+    { "label": "angry", "score": 0.08293145149946213 }
+  ],
+  "images/16_Disgust.jpg": [
+    { "label": "angry", "score": 0.3296855390071869 },
+    { "label": "sad", "score": 0.20409221947193146 },
+    { "label": "fear", "score": 0.19712720811367035 },
+    { "label": "neutral", "score": 0.18368874490261078 },
+    { "label": "happy", "score": 0.05113638564944267 }
+  ],
+  "images/3_Disgust.jpg": [
+    { "label": "neutral", "score": 0.5250021815299988 },
+    { "label": "happy", "score": 0.19192218780517578 },
+    { "label": "angry", "score": 0.11727416515350342 },
+    { "label": "sad", "score": 0.06499630957841873 },
+    { "label": "surprise", "score": 0.04022196680307388 }
+  ],
+  "images/9_Surprised.jpg": [
+    { "label": "surprise", "score": 0.6555668115615845 },
+    { "label": "fear", "score": 0.17971540987491608 },
+    { "label": "happy", "score": 0.0737319216132164 },
+    { "label": "angry", "score": 0.044926512986421585 },
+    { "label": "neutral", "score": 0.0235701035708189 }
+  ],
+  "images/1_Neutral.jpg": [
+    { "label": "neutral", "score": 0.6382972002029419 },
+    { "label": "happy", "score": 0.1526712328195572 },
+    { "label": "sad", "score": 0.12527646124362946 },
+    { "label": "surprise", "score": 0.034304551780223846 },
+    { "label": "fear", "score": 0.02587229758501053 }
+  ],
+  "images/13_Happy.jpg": [
+    { "label": "happy", "score": 0.9751140475273132 },
+    { "label": "neutral", "score": 0.007869255729019642 },
+    { "label": "surprise", "score": 0.00564158707857132 },
+    { "label": "sad", "score": 0.0047356789000332355 },
+    { "label": "fear", "score": 0.0024586720392107964 }
+  ],
+  "images/8_Neutral.jpg": [
+    { "label": "neutral", "score": 0.38360458612442017 },
+    { "label": "sad", "score": 0.2329094111919403 },
+    { "label": "happy", "score": 0.14588765799999237 },
+    { "label": "angry", "score": 0.1377600133419037 },
+    { "label": "fear", "score": 0.0701790302991867 }
+  ],
+  "images/2_Fear.jpg": [
+    { "label": "sad", "score": 0.48614758253097534 },
+    { "label": "fear", "score": 0.16158904135227203 },
+    { "label": "neutral", "score": 0.13639768958091736 },
+    { "label": "happy", "score": 0.11880303174257278 },
+    { "label": "angry", "score": 0.07584721595048904 }
+  ],
+  "images/2_Neutral.jpg": [
+    { "label": "sad", "score": 0.5252008438110352 },
+    { "label": "happy", "score": 0.20027370750904083 },
+    { "label": "fear", "score": 0.0991714596748352 },
+    { "label": "neutral", "score": 0.08296242356300354 },
+    { "label": "angry", "score": 0.03873016685247421 }
+  ],
+  "images/0_Surprised.jpg": [
+    { "label": "neutral", "score": 0.36599433422088623 },
+    { "label": "happy", "score": 0.3521636426448822 },
+    { "label": "angry", "score": 0.08902416378259659 },
+    { "label": "sad", "score": 0.08754429221153259 },
+    { "label": "fear", "score": 0.054187480360269547 }
+  ],
+  "images/7_Sad.jpg": [
+    { "label": "neutral", "score": 0.5057223439216614 },
+    { "label": "sad", "score": 0.20164307951927185 },
+    { "label": "happy", "score": 0.11067941784858704 },
+    { "label": "fear", "score": 0.08713827282190323 },
+    { "label": "angry", "score": 0.05182682350277901 }
+  ],
+  "images/9_Anger.jpg": [
+    { "label": "angry", "score": 0.2877255976200104 },
+    { "label": "sad", "score": 0.26316165924072266 },
+    { "label": "fear", "score": 0.196412593126297 },
+    { "label": "neutral", "score": 0.14502671360969543 },
+    { "label": "happy", "score": 0.07480402290821075 }
+  ],
+  "images/10_Fear.jpg": [
+    { "label": "happy", "score": 0.7299829721450806 },
+    { "label": "surprise", "score": 0.09525374323129654 },
+    { "label": "fear", "score": 0.0696144625544548 },
+    { "label": "sad", "score": 0.03209942951798439 },
+    { "label": "angry", "score": 0.03069479949772358 }
+  ],
+  "images/14_Neutral.jpg": [
+    { "label": "happy", "score": 0.41256144642829895 },
+    { "label": "sad", "score": 0.16481900215148926 },
+    { "label": "angry", "score": 0.12706738710403442 },
+    { "label": "neutral", "score": 0.11162564158439636 },
+    { "label": "fear", "score": 0.09487877786159515 }
+  ],
+  "images/5_Anger.jpg": [
+    { "label": "neutral", "score": 0.2438877522945404 },
+    { "label": "angry", "score": 0.22816886007785797 },
+    { "label": "sad", "score": 0.1583249270915985 },
+    { "label": "happy", "score": 0.1466217190027237 },
+    { "label": "fear", "score": 0.14152489602565765 }
+  ],
+  "images/13_Neutral.jpg": [
+    { "label": "neutral", "score": 0.5175507068634033 },
+    { "label": "sad", "score": 0.2203931361436844 },
+    { "label": "fear", "score": 0.1726047396659851 },
+    { "label": "angry", "score": 0.03333108499646187 },
+    { "label": "happy", "score": 0.03297431394457817 }
+  ],
+  "images/15_Disgust.jpg": [
+    { "label": "sad", "score": 0.3338334262371063 },
+    { "label": "happy", "score": 0.26275667548179626 },
+    { "label": "neutral", "score": 0.1941370815038681 },
+    { "label": "fear", "score": 0.13795533776283264 },
+    { "label": "angry", "score": 0.03793491795659065 }
+  ],
+  "images/8_Contempt.jpg": [
+    { "label": "fear", "score": 0.25899291038513184 },
+    { "label": "happy", "score": 0.22800235450267792 },
+    { "label": "sad", "score": 0.1804790198802948 },
+    { "label": "neutral", "score": 0.17689883708953857 },
+    { "label": "angry", "score": 0.09171170741319656 }
+  ],
+  "images/11_Contempt.jpg": [
+    { "label": "sad", "score": 0.5824975371360779 },
+    { "label": "happy", "score": 0.11765580624341965 },
+    { "label": "neutral", "score": 0.11634953320026398 },
+    { "label": "fear", "score": 0.07934121787548065 },
+    { "label": "angry", "score": 0.06468010693788528 }
+  ],
+  "images/1_Fear.jpg": [
+    { "label": "happy", "score": 0.5248519778251648 },
+    { "label": "sad", "score": 0.25686320662498474 },
+    { "label": "neutral", "score": 0.17617428302764893 },
+    { "label": "fear", "score": 0.015707477927207947 },
+    { "label": "surprise", "score": 0.011590131558477879 }
+  ],
+  "images/17_Fear.jpg": [
+    { "label": "fear", "score": 0.3783685564994812 },
+    { "label": "surprise", "score": 0.3297736942768097 },
+    { "label": "sad", "score": 0.1426650732755661 },
+    { "label": "happy", "score": 0.10004843771457672 },
+    { "label": "neutral", "score": 0.022387880831956863 }
+  ]
+}

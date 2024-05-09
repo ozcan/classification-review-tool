@@ -1,0 +1,46 @@
+{
+    "neutral": [
+        "images/0_Anger.jpg",
+        "images/0_Contempt.jpg",
+        "images/0_Disgust.jpg",
+        "images/0_Neutral.jpg",
+        "images/0_Surprised.jpg",
+        "images/10_Neutral.jpg",
+        "images/11_Sad.jpg",
+        "images/12_Fear.jpg",
+        "images/12_Neutral.jpg",
+        "images/12_Surprised.jpg"
+    ],
+    "fear": [
+        "images/0_Fear.jpg",
+        "images/10_Surprised.jpg",
+        "images/13_Disgust.jpg"
+    ],
+    "happy": [
+        "images/0_Happy.jpg",
+        "images/0_Sad.jpg",
+        "images/10_Anger.jpg",
+        "images/10_Contempt.jpg",
+        "images/10_Disgust.jpg",
+        "images/10_Fear.jpg",
+        "images/10_Happy.jpg",
+        "images/10_Sad.jpg",
+        "images/11_Happy.jpg",
+        "images/12_Anger.jpg",
+        "images/12_Disgust.jpg",
+        "images/12_Happy.jpg"
+    ],
+    "sad": [
+        "images/11_Anger.jpg",
+        "images/11_Contempt.jpg",
+        "images/11_Disgust.jpg",
+        "images/11_Fear.jpg",
+        "images/11_Neutral.jpg",
+        "images/11_Surprised.jpg",
+        "images/12_Contempt.jpg",
+        "images/12_Sad.jpg",
+        "images/13_Anger.jpg",
+        "images/13_Contempt.jpg",
+        "images/13_Fear.jpg"
+    ]
+}
