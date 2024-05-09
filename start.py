@@ -4,7 +4,9 @@ import argparse
 import hyperdiv as hd
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--predictions", help="Path to predictions JSON file", default="predictions.json")
+parser.add_argument(
+    "--predictions", help="Path to predictions JSON file", default="predictions.json"
+)
 parser.add_argument("--output", help="Path to output JSON file", default="output.json")
 args = parser.parse_args()
 
@@ -96,7 +98,11 @@ def main():
         with hd.hbox():
             with hd.vbox():
                 hd.text(files[state.index])
-                with open(files[state.index], "rb") as im:
+                absolute_img_path = os.path.join(
+                    os.path.dirname(predictions_json),
+                    files[state.index],
+                )
+                with open(absolute_img_path, "rb") as im:
                     hd.image(im.read(), max_height="80vh")
             with hd.hbox(justify="end", grow=True):
                 with hd.vbox(gap=2):
@@ -133,8 +139,9 @@ def main():
                             hd.text(f"{state.index}")
                             hd.text(f"{reviewed_in_past}")
                             hd.text(f"{len(files) - state.index}")
-                            
+
                     if hd.button("Next Image", suffix_icon="chevron-right").clicked:
                         next_image()
+
 
 hd.run(main)
