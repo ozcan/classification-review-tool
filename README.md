@@ -5,6 +5,12 @@
 - Use Up/Down arrows to switch between labels
 - Use Right arrow to save current label and get a new image
 
+### Usage
+
+```
+python start.py [--predictions (default: predictions.json)] [--output (default: output.json)]
+```
+
 ### Example `predictions.json` file with raw predictions
 ```
 {

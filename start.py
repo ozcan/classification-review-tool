@@ -1,9 +1,25 @@
 import os
 import json
+import argparse
 import hyperdiv as hd
 
-predictions_json = "predictions.json"
-output_json = "output.json"
+parser = argparse.ArgumentParser()
+parser.add_argument("--predictions", help="Path to predictions JSON file", default="predictions.json")
+parser.add_argument("--output", help="Path to output JSON file", default="output.json")
+args = parser.parse_args()
+
+predictions_json = args.predictions
+output_json = args.output
+
+with open(predictions_json, "r") as f:
+    predictions = json.load(f)
+try:
+    with open(output_json, "r") as f:
+        output = json.load(f)
+except FileNotFoundError:
+    output = {}
+
+# Rest of the code...
 
 with open(predictions_json, "r") as f:
     predictions = json.load(f)
