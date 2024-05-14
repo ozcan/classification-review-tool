@@ -1,1 +1,2 @@
 hyperdiv
+Pillow>=8.0.1

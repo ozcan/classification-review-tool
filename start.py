@@ -2,6 +2,8 @@ import os
 import json
 import argparse
 import hyperdiv as hd
+from PIL import Image
+from io import BytesIO
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -103,8 +105,12 @@ def main():
                     os.path.dirname(predictions_json),
                     files[state.index],
                 )
-                with open(absolute_img_path, "rb") as im:
-                    hd.image(im.read(), max_height="80vh")
+                # convert image to PNG, in case it might be a non-browser supported format like TIFF
+                image = Image.open(absolute_img_path)
+                png_image = BytesIO()
+                image.save(png_image, format='PNG')
+                png_image.seek(0)
+                hd.image(png_image.read(), max_height="80vh")
             with hd.hbox(justify="end", grow=True):
                 with hd.vbox(gap=2):
                     if state.selection == -1:
