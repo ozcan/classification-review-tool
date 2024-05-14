@@ -52,7 +52,8 @@ reviewed_in_past = 0
 for files_in_label in output.values():
     for file in files_in_label:
         reviewed_in_past += 1
-        files.remove(file)
+        if file in files:
+            files.remove(file)
 
 files = list(sorted(files))
 
