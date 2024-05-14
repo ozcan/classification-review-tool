@@ -105,12 +105,14 @@ def main():
                     os.path.dirname(predictions_json),
                     files[state.index],
                 )
-                # convert image to PNG, in case it might be a non-browser supported format like TIFF
+                
                 image = Image.open(absolute_img_path)
-                png_image = BytesIO()
-                image.save(png_image, format='PNG')
-                png_image.seek(0)
-                hd.image(png_image.read(), max_height="80vh")
+                target_format = "PNG" if image.format == "TIFF" else image.format
+                buffer = BytesIO()
+                image.convert('RGB').save(buffer, format=target_format)
+                buffer.seek(0)
+                hd.image(buffer.read(), max_height="80vh")
+            
             with hd.hbox(justify="end", grow=True):
                 with hd.vbox(gap=2):
                     if state.selection == -1:
