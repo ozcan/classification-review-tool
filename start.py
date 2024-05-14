@@ -2,8 +2,6 @@ import os
 import json
 import argparse
 import hyperdiv as hd
-from PIL import Image
-from io import BytesIO
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -14,16 +12,6 @@ args = parser.parse_args()
 
 predictions_json = args.predictions
 output_json = args.output
-
-with open(predictions_json, "r") as f:
-    predictions = json.load(f)
-try:
-    with open(output_json, "r") as f:
-        output = json.load(f)
-except FileNotFoundError:
-    output = {}
-
-# Rest of the code...
 
 with open(predictions_json, "r") as f:
     predictions = json.load(f)
@@ -106,12 +94,8 @@ def main():
                     files[state.index],
                 )
                 
-                image = Image.open(absolute_img_path)
-                target_format = "PNG" if image.format == "TIFF" else image.format
-                buffer = BytesIO()
-                image.convert('RGB').save(buffer, format=target_format)
-                buffer.seek(0)
-                hd.image(buffer.read(), max_height="80vh")
+                with open(absolute_img_path, "rb") as f:
+                    hd.image(f.read(), max_height="80vh")
             
             with hd.hbox(justify="end", grow=True):
                 with hd.vbox(gap=2):
